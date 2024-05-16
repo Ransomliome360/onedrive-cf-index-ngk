@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "KKc[d]rm's OneDrive",
+  title: "KKc[d]rm's Drive",
 
   // The folder that you are to share publicly with onedrive-cf-index-ng. Use '/' if you want to share your root folder.
   baseDirectory: '/',
@@ -35,7 +35,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Powered by <a href="https://github.com/Ransomliome360/onedrive-cf-index-ngk" target="_blank" rel="noopener noreferrer">KKSc[d]rm_s OneDrive</a>. I ❤ 🎵🪀 by RansomwareKK.',
+    'Powered by <a href="https://github.com/Ransomliome360/onedrive-cf-index-ngk" target="_blank" rel="noopener noreferrer">KKSc[d]rm_s Drive</a>. Enthusiast of 🎵🪀(Audiophile), curated with ❤️ by RansomwareKK.',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
